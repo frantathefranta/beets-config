@@ -10,4 +10,5 @@ Due to system python updates often breaking my beets plugins, I decided I need t
 
 # Plugins to implement
 These plugins are not in my current config.yaml yet, but I want to add them in the future
-- [ ] [https://github.com/nolsto/beets-follow/tree/v1.1]
+- [ ] [https://github.com/nolsto/beets-follow/tree/v1.1](beets-follow)
+   
