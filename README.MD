@@ -2,7 +2,7 @@
 Due to system python updates often breaking my beets plugins, I decided I need to create a separate environment for beets in a docker container. Here, I can define versions of everything I install, as well as maintain version control on my .yaml config files. 
 
 # Inspiration
-- [https://github.com/linuxserver/docker-beets/blob/master/Dockerfile](the official beets-docker)
+- [the official beets-docker](https://github.com/linuxserver/docker-beets/blob/master/Dockerfile)
 
 # TODO
 - [ ] Import my own beets config.yaml
@@ -14,4 +14,4 @@ Due to system python updates often breaking my beets plugins, I decided I need t
 
 # Plugins to implement
 These plugins are not in my current config.yaml yet, but I want to add them in the future
-- [ ] [https://github.com/nolsto/beets-follow/tree/v1.1](beets-follow)
+- [ ] [beets-follow](https://github.com/nolsto/beets-follow/tree/v1.1)
