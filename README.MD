@@ -7,3 +7,7 @@ Due to system python updates often breaking my beets plugins, I decided I need t
   - Need to add all the plugins I use
   - Add restic config
 - [ ] Figure out backup of the .db file
+
+# Plugins to implement
+These plugins are not in my current config.yaml yet, but I want to add them in the future
+- [ ] [https://github.com/nolsto/beets-follow/tree/v1.1]
