@@ -3,6 +3,7 @@ Due to system python updates often breaking my beets plugins, I decided I need t
 
 # TODO
 - [ ] Import my own beets config.yaml
+  - [ ] Need to hide all credentials
 - [ ] Finish Dockerfile 
   - Need to add all the plugins I use
   - Add restic config
@@ -11,4 +12,3 @@ Due to system python updates often breaking my beets plugins, I decided I need t
 # Plugins to implement
 These plugins are not in my current config.yaml yet, but I want to add them in the future
 - [ ] [https://github.com/nolsto/beets-follow/tree/v1.1](beets-follow)
-   
